@@ -59,7 +59,6 @@
 
 <h2>NICE Framework KSAs</h2>
 
-<!--
 <ul>
 <li>K0001: Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
 <br>
@@ -71,8 +70,8 @@
 <br>
 <li>K0036: Knowledge of human-computer interaction principles.</li>
 <br>
-<li>K0044: Knowledge of cybersecurity principles and organizational requirements.</li> </ul>
--->
+<li>K0044: Knowledge of cybersecurity principles and organizational requirements.</li> 
+</ul>
 
 <h2>Lesson Prerequisites</h2>
 <p1> Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lessons, previous Lessons can be referenced.
@@ -86,31 +85,42 @@
 
 
 <h3><ins>What is an Operating System?</ins></h3>
-
-The Operating System (OS) is the vital software that acts as an intermediary between computer hardware and the user. It manages hardware resources, facilitates communication between software and hardware, and offers a user-friendly environment for program interaction.
-<br>
+<ul>
+<li>The Operating System (OS) is the vital software that acts as an intermediary between computer hardware and the user. It manages hardware resources, facilitates communication between software and hardware, and offers a user-friendly environment for program interaction.
+<br></li>
+</ul>
 
 <h3><ins>The Linux Legacy</ins></h3>
 
-Originating as a personal project by Linus Torvalds in 1991, Linux has burgeoned into a robust, open-source operating system revered for its stability, flexibility, and extensive user community. Its Unix-based lineage contributes to its wide adoption in server environments, supercomputers, and more.
-<br>
+<ul>
+<li>Originating as a personal project by Linus Torvalds in 1991, Linux has burgeoned into a robust, open-source operating system revered for its stability, flexibility, and extensive user community. Its Unix-based lineage contributes to its wide adoption in server environments, supercomputers, and more.
+<br></li>
+</ul>
 
 <h3><ins>Discovering the Command Line Interface</ins></h3>
 
-The command line interface (CLI) is the gateway to unleashing the power of Linux. Unlike graphical user interfaces, the CLI provides a text-based interaction platform where commands are typed and executed to perform various tasks.
-<br>
+<ul>
+<li>The command line interface (CLI) is the gateway to unleashing the power of Linux. Unlike graphical user interfaces, the CLI provides a text-based interaction platform where commands are typed and executed to perform various tasks.
+<br></li>
+</ul>
 
 <h3><ins>Navigating the Linux Landscape</ins></h3>
-Learn the basics of moving around the Linux file system using commands such as cd to change directories, ls to list directory contents, and pwd to print the working directory. Understanding file paths and directories is crucial for effective navigation.
-<br>
+<ul>
+<li>Learn the basics of moving around the Linux file system using commands such as cd to change directories, ls to list directory contents, and pwd to print the working directory. Understanding file paths and directories is crucial for effective navigation.
+<br></li>
+</ul>
 
 <h3><ins>Your Toolkit of Basic Commands</ins></h3>
-Familiarize yourself with a repertoire of basic commands essential for file and directory management, including mkdir for creating directories, touch for creating files, and rm for removing items.
-<br>
+<ul>
+<li>Familiarize yourself with a repertoire of basic commands essential for file and directory management, including mkdir for creating directories, touch for creating files, and rm for removing items.
+<br></li>
+</ul>
 
 
 <h3><ins>Practical Engagements</ins></h3>
-Engage in hands-on exercises to apply the learned commands in real-time scenarios, fostering a practical understanding and appreciation of the command line's efficiency and power.
+<ul>
+<li>Engage in hands-on exercises to apply the learned commands in real-time scenarios, fostering a practical understanding and appreciation of the command line's efficiency and power.</li>
+</ul>
 
 
 
@@ -118,8 +128,35 @@ Engage in hands-on exercises to apply the learned commands in real-time scenario
 <p1>Linux and its command line interface are quintessential tools in the toolkit of modern-day technologists. Today’s lesson has provided a stepping stone into the vast and exciting world of Linux. As we progress, the command line will become a familiar friend, unlocking the potential to manage systems, automate tasks, and much more. The skills acquired today are not only pivotal for further exploration into Linux but are also transferrable to many other operating systems, making them a valuable addition to your tech-savvy repertoire.
 </p1>
 <br>
- 
 
+<h2>Definitions</h2>
+<ul>
+<li><b>OS (Operating System):</b> Software that manages hardware resources and provides services for computer programs.<br>
+<br>
+
+<li><b>Kernel:</b> The core component of an operating system that manages system resources and communication between hardware and software.<br>
+<br>
+
+<li><b>File System:</b> The method and data structures an operating system uses to manage files on a storage device.<br>
+<br>
+
+<li><b>Linux:</b> An open-source, Unix-like operating system kernel that forms the basis of various operating systems known as Linux distributions.<br>
+<br>
+
+<li><b>Shell:</b> A command-line interface that allows users to interact with the operating system by entering commands.<br>
+<br>
+
+<li><b>Path:</b> The location or address of a file or directory within a file system.<br>
+<br>
+
+<li><b>CLI (Command Line Interface):</b> A text-based interface that allows users to interact with the operating system or software by typing commands.<br>
+<br>
+
+<li><b>Directory:</b> A container in a file system that holds files and other directories, organizing data into a hierarchical structure.<br>
+<br>
+
+<li><b>Terminal:</b> A text-based interface used to interact with the operating system or execute commands, often providing access to a CLI.
+</ul>
 
 <h2> Presentation</h2>
 <a href= "https://docs.google.com/presentation/d/1-vqchhnrlFpbk7WndvFJIecG1hf1dmKM/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Introduction to Linux</a><br>
@@ -129,5 +166,6 @@ Engage in hands-on exercises to apply the learned commands in real-time scenario
 <h2> Hands-On Labs</h2>
 
 
+<h2> Games</h2>
  <h2>Additonal Resources</h2>
  <a href="https://drive.google.com/file/d/1Y_4AIFb7cOzNqxM6m60G-zdx_cu2zeER/view?usp=sharing"> Linux Cheat Sheet </a>
